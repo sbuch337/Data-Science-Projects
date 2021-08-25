@@ -1,3 +1,3 @@
 # Portfolio
 
-Mini-projects done for COMP4448.
+This is a compilation of projects done for COMP4448.
